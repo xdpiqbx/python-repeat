@@ -1,0 +1,187 @@
+# print(dir())
+# [
+#   '__annotations__', '__builtins__', '__cached__',
+#   '__doc__', '__file__', '__loader__', '__name__',
+#   '__package__', '__spec__'
+# ]
+
+print(dir(__builtins__))
+# [
+# 'ArithmeticError',
+# 'AssertionError',
+# 'AttributeError',
+# 'BlockingIOError',
+# 'BrokenPipeError',
+# 'BufferError',
+# 'ChildProcessError',
+# 'ConnectionAbortedError',
+# 'ConnectionError',
+# 'ConnectionRefusedError',
+# 'ConnectionResetError',
+# 'EnvironmentError',
+# 'EOFError',
+# 'FileExistsError',
+# 'FileNotFoundError',
+# 'FloatingPointError',
+# 'ImportError',
+# 'IndentationError',
+# 'IndexError',
+# 'InterruptedError',
+# 'IOError',
+# 'IsADirectoryError',
+# 'KeyError',
+# 'LookupError',
+# 'MemoryError',
+# 'ModuleNotFoundError',
+# 'NameError',
+# 'NotADirectoryError',
+# 'NotImplementedError',
+# 'OSError',
+# 'OverflowError',
+# 'PermissionError',
+# 'ProcessLookupError',
+# 'RecursionError',
+# 'ReferenceError',
+# 'RuntimeError',
+# 'SyntaxError',
+# 'SystemError',
+# 'TabError',
+# 'TimeoutError',
+# 'TypeError',
+# 'UnboundLocalError',
+# 'UnicodeDecodeError',
+# 'UnicodeEncodeError',
+# 'UnicodeError',
+# 'UnicodeTranslateError',
+# 'ValueError',
+# 'WindowsError',
+# 'ZeroDivisionError',
+
+# 'Exception',
+# 'BaseException',
+# 'ExceptionGroup',
+# 'BaseExceptionGroup',
+
+# 'BytesWarning',
+# 'DeprecationWarning',
+# 'EncodingWarning',
+# 'FutureWarning',
+# 'ImportWarning',
+# 'PendingDeprecationWarning',
+# 'ResourceWarning',
+# 'RuntimeWarning',
+# 'SyntaxWarning',
+# 'UnicodeWarning',
+# 'UserWarning',
+# 'Warning',
+
+
+# 'SystemExit',
+# 'GeneratorExit',
+
+# 'StopAsyncIteration',
+# 'StopIteration',
+
+# 'KeyboardInterrupt',
+# 'NotImplemented',
+# 'Ellipsis',
+# 'None',
+# 'True',
+# 'False',
+#
+# '__build_class__', '__debug__', '__doc__', '__import__', '__loader__', '__name__', '__package__', '__spec__',
+#
+
+# 'id', - get object address in memory
+
+# 'input',
+# 'print',
+
+# 'dir',
+
+# 'abs',
+# 'sum',
+
+# 'chr',
+# 'ord',
+# 'ascii',
+
+# 'type',
+# 'bool',
+# 'int',
+# 'float',
+# 'bin',
+# 'str',
+# 'bytes',
+# 'bytearray',
+# 'dict',
+# 'list',
+# 'set',
+# 'frozenset',
+# 'complex',
+# 'tuple',
+# 'map',
+# 'range',
+
+# 'len',
+# 'sorted',
+
+# 'filter',
+
+# 'max',
+# 'min',
+# 'pow',
+# 'oct',
+# 'round',
+
+# 'super',
+# 'object',
+# 'setattr',
+# 'hasattr',
+# 'getattr',
+# 'delattr',
+# 'property',
+# 'staticmethod',
+# 'classmethod',
+
+# 'isinstance',
+# 'issubclass',
+
+# 'next',
+# 'anext',
+# 'aiter',
+# 'iter',
+# 'enumerate',
+# 'zip'
+
+# 'globals',
+# 'locals',
+# 'vars',
+
+# 'all',
+# 'any',
+# 'compile',
+# 'copyright',
+# 'credits',
+# 'divmod',
+# 'eval',
+# 'exec',
+# 'hash',
+# 'help',
+# 'hex',
+# 'repr',
+# 'license',
+# 'reversed',
+# 'breakpoint',
+# 'memoryview',
+
+# 'slice',
+# 'format',
+
+# 'callable',
+
+# 'open',
+
+# 'quit',
+# 'exit',
+# ]
